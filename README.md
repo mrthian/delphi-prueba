@@ -1,4 +1,10 @@
 # Prueba Tecnica en Delphi
+<hr/>
+
+## Pre-requisitos
+
+- Delphi
+- Postgres
 
 
 ### Proyecto 1: Calcular la secuencia Fibonacci
